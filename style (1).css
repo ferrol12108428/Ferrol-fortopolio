@@ -1,0 +1,73 @@
+.name {
+  background-color: white;
+  width: 200px;
+  height: 120px;
+  margin: 50px auto;
+  text-align: center;
+  border: 5px solid black;
+}
+
+.asep {
+  font-family: 'Tunder-Good';
+  width: 200px;
+  height: 120px;
+  margin:50px auto;
+  text-align: center;
+}
+
+.Ferrol {
+  width: 200px;
+  height: 120px;
+  margin: 50px auto;
+  text-align-last: center;
+}
+
+.Syafitri {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+.love {
+  font-family: 'Inconsolata', monospace;
+}
+
+.me {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+
+.you {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+.I {
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 25px;
+}
+
+.hope {
+  font-family: 'Inconsolata', Monospace;
+  font-size: 20px;
+}
+
+.FF-MAX {
+  font-family: 'Inconsolata', Monospace;
+  font-size: 20px;
+}
+
+.FF-BURIK {
+  font-family: 'Inconsolata', Monospace;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: arial;
+  font-size: 30px;
+}
+
+.arial {
+  font-family: arial;
+}
+
